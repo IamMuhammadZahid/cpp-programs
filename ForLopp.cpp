@@ -2,7 +2,8 @@
 using namespace std;
 int main()
 {
-	for(int i=1; i<=10; i++)
+	int Size = 10;
+	for(int i=1; i<=Size; i++)
 	{
 		cout<<"Hello Pakistan";
 	}
